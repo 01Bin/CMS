@@ -8,7 +8,7 @@ public class MyController {
 	
 	@RequestMapping("list")
 	public String goList() {
-		
+		//啥哈哈
 		return "list";
 	}
 	
